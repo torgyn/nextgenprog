@@ -5,6 +5,11 @@ locale: en_GB
 logo: # filename of a logo image that has been placed into your images directory
 theme: jekyll-theme-cayman
 
+# The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
+# you may do so in _sass/variables.scss
+highlight-color: '#CC0000'
+lowlight-color: '#000'
+
 
 # Jekyll configuration
 
