@@ -1,4 +1,7 @@
-# Markdown
+---
+layout: page
+title: Markdown
+---
 
 ## What is markdown?
 Markdown is an easy to use and read language for styling text. It is designed to be easily read by both a computer and a human.
