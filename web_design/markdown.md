@@ -16,5 +16,5 @@ We recommend:
 - Check out how your markdown would be displayed by the computer using Preview. If you spot something you didn't like or want to change, you can go back to Edit mode and back to Preview.
 
 ## Next steps
-Knowing markdown would become even more useful as you progress with your coding and would start collaborating with other programmers on platforms such as GitHub. There is a version of markdown specifically for that. Learn more [here].(https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+Knowing markdown would become even more useful as you progress with your coding and would start collaborating with other programmers on platforms such as GitHub. There is a version of markdown specifically for that. Learn more [here](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown).
 
