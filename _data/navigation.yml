@@ -1,0 +1,21 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: App Development
+  url: /app_development/
+
+- title: Java
+  url: /java/
+
+- title: Logic
+  url: /logic/
+
+- title: Markdown
+  url: /web_design/Markdown
+
+- title: Scratch
+  url: /scratch/
+
+- title: Web Design
+  url: /web_design/
