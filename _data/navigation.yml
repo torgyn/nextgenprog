@@ -5,6 +5,9 @@
 - title: App Development
   url: /app_development/
 
+- title: English for Programmers
+  url: /english_for_programmers/
+
 - title: Java
   url: /java/
 
@@ -19,3 +22,6 @@
 
 - title: Web Design
   url: /web_design/
+
+- title: Remote learning
+url: /remote_learning/
