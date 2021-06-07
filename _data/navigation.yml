@@ -5,23 +5,23 @@
 - title: App Development
   url: /app_development/Android_studio_lessons.md
 
-# - title: English for Programmers
-#   url: /english_for_programmers/
+- title: English for Programmers
+  url: /english_for_programmers/
 
-# - title: Java
-#   url: /java/
+- title: Java
+  url: /java/
 
-# - title: Logic
-#   url: /logic/
+- title: Logic
+  url: /logic/
 
-# - title: Markdown
-#   url: /web_design/Markdown
+- title: Markdown
+  url: /web_design/markdown.md
 
-# - title: Scratch
-#   url: /scratch/
+- title: Scratch
+  url: /scratch/
 
-# - title: Web Design
-#   url: /web_design/
+- title: Web Design
+  url: /web_design/
 
-# - title: Remote learning
-# url: /remote_learning/
+- title: Remote learning
+  url: /remote_learning/

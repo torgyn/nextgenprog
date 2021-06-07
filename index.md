@@ -8,9 +8,8 @@ aimed to inspire young talent from rural schools in developing countries to purs
 </p> 
 
 
-<!-- ![](images/ngpLogo.png) -->
-
 # Contents:
-[App Development](/nextgenprog/app_development/Android_studio_lessons.md "Android Studio Lessons")
+[App Development](/nextgenprog/app_development/Android_studio_lessons.md)
 
-[Web Design](/nextgenprog/web_design/markdown.md "Markdown")
+[Web Design](/nextgenprog/web_design/markdown.md)
+
