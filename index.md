@@ -1,6 +1,6 @@
-# nexgenprog
+# Next Generation Programmers (NGP) 
 
-Next Generation Programmers (NGP) is a non-profit educational outreach initative 
+We are a non-profit educational outreach initative 
 aimed to inspire young talent from rural schools in developing countries to pursue programming.
 
 <p align="center"> 
@@ -11,5 +11,6 @@ aimed to inspire young talent from rural schools in developing countries to purs
 <!-- ![](images/ngpLogo.png) -->
 
 # Contents:
-[App Development](/app_development/Android_studio_lessons.md "Android Studio Lessons")
+[App Development](/nextgenprog/app_development/Android_studio_lessons.md "Android Studio Lessons")
 
+[Web Design](/nextgenprog/web_design/markdown.md "Markdown")
