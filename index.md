@@ -9,7 +9,7 @@ aimed to inspire young talent from rural schools in developing countries to purs
 
 
 # Contents:
-[App Development](/nextgenprog/app_development/Android_studio_lessons.md)
+[App Development](/nextgenprog/app_development/)
 
-[Web Design](/nextgenprog/web_design/markdown.md)
+[Web Design](/nextgenprog/web_design/markdown)
 
