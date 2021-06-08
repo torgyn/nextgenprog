@@ -11,5 +11,6 @@ aimed to inspire young talent from rural schools in developing countries to purs
 # Contents:
 [App Development](/nextgenprog/app_development/)
 
-[Web Design](/nextgenprog/web_design/markdown)
+Web Design
+[Markdown](/nextgenprog/web_design/markdown)
 

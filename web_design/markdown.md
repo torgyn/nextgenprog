@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Markdown
-permalink: /markdown/
+permalink: /web_design/markdown/
 ---
 
 
