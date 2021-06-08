@@ -1,3 +1,9 @@
+---
+layout: page
+title: Markdown
+permalink: /app_development/
+---
+
 # App Development
 
 ## Lesson 1: Introduction to Android Studio
