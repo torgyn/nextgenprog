@@ -9,37 +9,52 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
+import androidx.navigation.fragment.NavHostFragment;
+
+import com.example.myapplication.databinding.FragmentFirstBinding;
 
 public class FirstFragment extends Fragment {
+
+    private FragmentFirstBinding binding;
 
     @Override
     public View onCreateView(
             LayoutInflater inflater, ViewGroup container,
             Bundle savedInstanceState
     ) {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_first, container, false);
+
+        binding = FragmentFirstBinding.inflate(inflater, container, false);
+        return binding.getRoot();
+
     }
 
     public void onViewCreated(@NonNull View view, Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
         View parent = view;
-        view.findViewById(R.id.button_first).setOnClickListener(new View.OnClickListener() {
+
+        binding.buttonFirst.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                EditText fieldA = parent.findViewById(R.id.editTextTextPersonName2);
-                EditText fieldB = parent.findViewById(R.id.editTextTextPersonName3);
+                EditText fieldA = parent.findViewById(R.id.editTextTextPersonName);
+                EditText fieldB = parent.findViewById(R.id.editTextTextPersonName2);
                 int a = Integer.parseInt(fieldA.getText().toString());
                 int b = Integer.parseInt(fieldB.getText().toString());
                 ((TextView)parent.findViewById(R.id.textview_first)).setText("The answer is: "+(a+b));
             }
         });
 
-        view.findViewById(R.id.button).setOnClickListener(new View.OnClickListener() {
+        binding.button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
 
             }
         });
     }
+
+    @Override
+    public void onDestroyView() {
+        super.onDestroyView();
+        binding = null;
+    }
+
 }
