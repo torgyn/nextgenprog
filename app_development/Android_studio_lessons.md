@@ -25,3 +25,7 @@ In this lesson we will add more elements to our app to make it into an "Addition
 </a>
 
 
+## Lesson 3: 
+<a href="/nextgenprog/app_development/android_lesson3_handout.pdf" download>
+	Download Lesson 3 handout
+</a>
