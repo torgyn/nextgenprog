@@ -2,6 +2,7 @@
 layout: page
 title: Markdown
 permalink: /web_design/markdown/
+theme: jekyll-theme-cayman
 ---
 
 
