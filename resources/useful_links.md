@@ -1,3 +1,11 @@
+---
+layout: page
+title: Useful Links
+permalink: /web_design/resources/
+theme: jekyll-theme-cayman
+---
+
+
 # Useful links for self-learning
 
 ![https://ru.coursera.org/](https://s3.amazonaws.com/coursera/media/Partner_Logos.png)
@@ -7,9 +15,9 @@
 ![https://www.edx.org/](https://i1.wp.com/onlinecourseing.com/wp-content/uploads/2019/10/maxresdefault.jpg?fit=1200%2C630&ssl=1)
 * A website with an incredibly large number of courses for additional professions.
 
-
 ![https://www.apple.com/itunes/](https://www.99mac.se/static/artikel/bild/75994?l=eyJyZXNvdXJjZSI6Ilwvc3RhdGljXC9hcnRpa2VsXC9iaWxkXC83NTk5NCIsImZpbHRlcnMiOlsidD1hcnRpY2xlRmFjZWJvb2siXSwicGFyYW1zIjpbXSwia2V5IjoiM2M1MTg4ZmQzNzBmMmNjZTIzYzMzZTQ0MGVjMTYxZTQifQ%3D%3D)
 * The site which is made by the Apple campaign is a huge diverse list of lessons and courses of more than 100 types.
+
 # Competitive programming
 ![https://www.topcoder.com/](https://repository-images.githubusercontent.com/225466814/790cb180-40fd-11ea-82ea-985acd52301e)
 * A unique site for competitions with other people in programming there are many types.
@@ -19,6 +27,7 @@
 
 ![https://www.codechef.com/](https://cdn.dribbble.com/users/70628/screenshots/1743345/codechef.png)
 * The Indian website offers hundreds of different tasks on different topics.
+
 # Resources for English
 ![https://www.efset.org/](https://4.bp.blogspot.com/-V4xlLC0v-qw/WrcY3-jVXNI/AAAAAAAAIW4/G3nPFL7f04I-75T6aoyNPQQmcsXonU8fQCLcBGAs/w1200-h630-p-k-no-nu/og-img-efsetorg-Certificate.jpg)
 * EF SET is a free online text app where you can check your English level.
