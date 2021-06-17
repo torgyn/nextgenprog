@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Useful Links
-permalink: /web_design/resources/
+permalink: /resources/
 theme: jekyll-theme-cayman
 ---
 
