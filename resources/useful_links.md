@@ -1,9 +1,12 @@
 # Useful links for self-learning
+
 ![https://ru.coursera.org/](https://s3.amazonaws.com/coursera/media/Partner_Logos.png)
 * In our opinion one of the best sites for learning from scratch programming from a variety of courses to games.
 
+
 ![https://www.edx.org/](https://i1.wp.com/onlinecourseing.com/wp-content/uploads/2019/10/maxresdefault.jpg?fit=1200%2C630&ssl=1)
 * A website with an incredibly large number of courses for additional professions.
+
 
 ![https://www.apple.com/itunes/](https://www.99mac.se/static/artikel/bild/75994?l=eyJyZXNvdXJjZSI6Ilwvc3RhdGljXC9hcnRpa2VsXC9iaWxkXC83NTk5NCIsImZpbHRlcnMiOlsidD1hcnRpY2xlRmFjZWJvb2siXSwicGFyYW1zIjpbXSwia2V5IjoiM2M1MTg4ZmQzNzBmMmNjZTIzYzMzZTQ0MGVjMTYxZTQifQ%3D%3D)
 * The site which is made by the Apple campaign is a huge diverse list of lessons and courses of more than 100 types.
