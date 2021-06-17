@@ -16,3 +16,6 @@ aimed to inspire young talent from rural schools in developing countries to purs
 Web Design
 [Markdown](/nextgenprog/web_design/markdown)
 
+Resources for self-learning
+[Useful links](/nextgenprog/resources/)
+
