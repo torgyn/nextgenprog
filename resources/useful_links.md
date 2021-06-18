@@ -66,7 +66,7 @@ The site has a lot of  tests for all levels of English - from beginner to advanc
 ![https://mycake.me/](https://mycake.me/)
 * Cake is an application that allows you to learn English using video tutorials that simulate communication with a native speaker. There are many YouTube videos and excerpts from popular movies and TV series. And they were turned into educational content. The video tutorials are divided by difficulty levels and by topic. The videos last up to 2 minutes, each video has English subtitles and a translation into Russian.
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://github.com/torgyn/nextgenprog/blob/website/learnenglishkids.britishcouncil.png?raw=true" alt="learnenglishkids.britishcouncil_logo" width="256">
 </p> 
 
