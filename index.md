@@ -7,6 +7,8 @@ aimed to inspire young talent from rural schools in developing countries to purs
   <img src="https://github.com/torgyn/nextgenprog/blob/main/ngpLogo.png?raw=true" alt="NGP logo" width="256">
 </p> 
 
+[2021 Participant Survey](/nextgenprog/resources/2021_survey/)
+
 
 # Contents:
 [App Development](/nextgenprog/app_development/)
@@ -18,8 +20,8 @@ Web Design
 
 Resources for self-learning
 [Useful links](/nextgenprog/remote_learning/)
+Old version:[Useful links](/nextgenprog/resources/)
 
-[Useful links](/nextgenprog/resources/)
 
 
 <nav>
