@@ -11,7 +11,12 @@ theme: jekyll-theme-cayman
 <p align="left"> 
   <img src="https://github.com/torgyn/nextgenprog/blob/website/coursera.png?raw=true" alt="coursera_logo" width="256">
 </p> 
-![https://ru.coursera.org/](https://ru.сoursera.org)
+
+<p align="left"> 
+  <img src="../images/coursera.png?raw=true" alt="coursera_logo" width="256">
+</p> 
+
+![https://ru.coursera.org/](https://ru.сoursera.org/)
 * In our opinion one of the best sites for learning from scratch programming from a variety of courses to games.
 
 <p align="left"> 
@@ -33,6 +38,7 @@ theme: jekyll-theme-cayman
 <p align="left"> 
   <img src="https://github.com/torgyn/nextgenprog/blob/website/topcoder.jpg?raw=true" alt="topcoder_logo" width="256">
 </p> 
+
 ![https://www.topcoder.com/](https://www.topcoder.com/)
 * A unique site for competitions with other people in programming there are many types.
 
@@ -40,7 +46,9 @@ theme: jekyll-theme-cayman
 <p align="left"> 
   <img src="https://github.com/torgyn/nextgenprog/blob/website/hackerrank.jpg?raw=true" alt="hackerrank_logo" width="256">
 </p> 
+
 ![https://www.hackerrank.com/](https://www.hackerrank.com/)
+
 * A website that uses not only programming but also algorithms as well as mathematics.
 
 <p align="left"> 
@@ -48,7 +56,8 @@ theme: jekyll-theme-cayman
 </p> 
 
 ![https://www.codechef.com/](https://www.codechef.com/)
-* The Indian website offers hundreds of different tasks on different topics.
+
+* This website offers hundreds of different tasks on different topics.
 
 # Resources for English
 <p align="left"> 
@@ -56,6 +65,7 @@ theme: jekyll-theme-cayman
 </p> 
 
 ![https://www.efset.org/](https://www.efset.org/)
+
 * EF SET is a free online text app where you can check your English level.
 The site has a lot of  tests for all levels of English - from beginner to advanced.
 
@@ -64,6 +74,7 @@ The site has a lot of  tests for all levels of English - from beginner to advanc
 </p> 
 
 ![https://mycake.me/](https://mycake.me/)
+
 * Cake is an application that allows you to learn English using video tutorials that simulate communication with a native speaker. There are many YouTube videos and excerpts from popular movies and TV series. And they were turned into educational content. The video tutorials are divided by difficulty levels and by topic. The videos last up to 2 minutes, each video has English subtitles and a translation into Russian.
 
 <p align="left"> 
@@ -71,4 +82,5 @@ The site has a lot of  tests for all levels of English - from beginner to advanc
 </p> 
 
 ![learnenglishkids.britishcouncil.org](learnenglishkids.britishcouncil.org)
+
 * LearnEnglishKids is a website that wants to support parents whose children are currently unable to go to school. You can find a lot of online games, songs, stories and activities for children on the site. And it's all free. In addition to games and stories the site has articles for parents that are about supporting children in learning English.
