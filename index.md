@@ -19,3 +19,13 @@ Web Design
 Resources for self-learning
 [Useful links](/nextgenprog/resources/)
 
+
+
+<nav>
+  {% for item in site._data.navigation %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+      {{ item.name }}
+    </a>
+  {% endfor %}
+</nav>
+

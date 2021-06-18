@@ -1,6 +1,6 @@
 ---
 layout: page
-title: App development
+title: App Development
 permalink: /app_development/
 theme: jekyll-theme-cayman
 ---

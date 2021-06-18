@@ -31,6 +31,7 @@ theme: jekyll-theme-cayman
 </p> 
 
 ![https://www.apple.com/itunes/](https://www.apple.com/itunes/)
+
 * The site which is made by the Apple campaign is a huge diverse list of lessons and courses of more than 100 types.
 
 # Competitive programming
@@ -40,6 +41,7 @@ theme: jekyll-theme-cayman
 </p> 
 
 ![https://www.topcoder.com/](https://www.topcoder.com/)
+
 * A unique site for competitions with other people in programming there are many types.
 
 
