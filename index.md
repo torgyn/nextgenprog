@@ -17,8 +17,9 @@ Web Design
 [Markdown](/nextgenprog/web_design/markdown)
 
 Resources for self-learning
-[Useful links](/nextgenprog/resources/)
+[Useful links](/nextgenprog/remote_learning/)
 
+[Useful links](/nextgenprog/resources/)
 
 
 <nav>
