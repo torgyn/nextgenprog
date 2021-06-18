@@ -8,10 +8,12 @@ theme: jekyll-theme-cayman
 
 # Useful links for self-learning
 
+> This is absolute link to the logo image. It doesn't work well here.
 <p align="left"> 
   <img src="https://github.com/torgyn/nextgenprog/blob/website/coursera.png?raw=true" alt="coursera_logo" width="256">
 </p> 
 
+> This is a relative link to the logo image. It works!
 <p align="left"> 
   <img src="../images/coursera.png?raw=true" alt="coursera_logo" width="256">
 </p> 
