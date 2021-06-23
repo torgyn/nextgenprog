@@ -20,8 +20,12 @@ Web Design
 
 Resources for self-learning
 [Useful links](/nextgenprog/remote_learning/)
-Old version:[Useful links](/nextgenprog/resources/)
 
+2021 Student projects
+[Useful links](/nextgenprog/student_projects/)
+
+2021 volunteers and speakers
+[Useful links](/nextgenprog/volunteers/)
 
 
 <nav>
@@ -32,3 +36,5 @@ Old version:[Useful links](/nextgenprog/resources/)
   {% endfor %}
 </nav>
 
+**Disclaimer:** This website is under constant modification.
+If you find something isn't right, then we might be implementing changes in the back-end.
