@@ -27,7 +27,6 @@ Resources for self-learning
 2021 volunteers and speakers
 [Useful links](volunteers/)
 
-
 <nav>
   {% for item in site._data.navigation %}
     <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
