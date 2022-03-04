@@ -37,3 +37,13 @@ Resources for self-learning
 
 **Disclaimer:** This website is under constant modification.
 If you find something isn't right, then we might be implementing changes in the back-end.
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-81026356-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-81026356-1');
+</script>
