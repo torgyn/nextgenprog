@@ -21,6 +21,9 @@ Web Design
 Resources for self-learning
 [Useful links](www.nextgenprog.org/remote_learning/)
 
+NGP Privacy Policy
+[Privacy Policy](www.nextgenprog.org/privacy)
+
 2021 Student projects
 [Useful links](tudent_projects/)
 
