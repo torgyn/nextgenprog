@@ -18,17 +18,17 @@ aimed to inspire young talent from rural schools in developing countries to purs
 Web Design
 [Markdown](/web_design/markdown)
 
-Resources for self-learning
-[Useful links](www.nextgenprog.org/remote_learning/)
+<!--Resources for self-learning-->
+<!--[Useful links](/remote_learning/)-->
 
 NGP Privacy Policy
 [Privacy Policy](/privacy.html)
 
-2021 Student projects
-[Useful links](tudent_projects/)
+<!--2021 Student projects-->
+<!--[Useful links](tudent_projects/)-->
 
-2021 volunteers and speakers
-[Useful links](volunteers/)
+<!--2021 volunteers and speakers-->
+<!--[Useful links](volunteers/)-->
 
 <nav>
   {% for item in site._data.navigation %}
